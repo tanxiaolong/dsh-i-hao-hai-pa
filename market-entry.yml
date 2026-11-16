@@ -1,0 +1,19 @@
+# 提交到「Awesome DSH Plugin」市场索引用的条目
+#
+# 用法：把这个文件的内容保存为
+#   <awesome-dsh-plugin 仓库>/data/plugins/tanxiaolong__dsh-i-hao-hai-pa.yml
+# 然后向 https://github.com/awesome-dsh-plugin/awesome-dsh-plugin 提 PR。
+#
+# 提交前确认：
+#   1. GitHub 仓库 https://github.com/tanxiaolong/dsh-i-hao-hai-pa 已存在且**建满 1 天**
+#      （新建当天会被自动检查挡掉，可以等一天后再提交）
+#   2. 该仓库已打上 `dsh-plugin` topic
+#   3. 该仓库的 package.json 里保留了 dsh.bundle（本插件已有）
+#   4. npm 上的版本已发布且可安装（dsh-i-hao-hai-pa@1.2.3 已在 registry 上）
+
+url: https://github.com/tanxiaolong/dsh-i-hao-hai-pa
+name: tanxiaolong/dsh-i-hao-hai-pa
+category: ui
+description:
+  en: Swear at DSH and the sidebar, editor and conversation break apart like an earthquake collapse, staying in rubble until the assistant replies and the pieces rebuild themselves.
+  zh: 骂 DSH 一句，左侧栏、编辑区和会话区会像地震一样塌成一地瓦砾，一直瘫着，直到 DSH 开口回答才从下往上长回来。
